@@ -2,7 +2,7 @@
 <Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
   <Header>
     <Version>3.5.14.0</Version>
-    <SymbolConfigObject version="4.2.0.0" runtimeid="3.5.18.2" libversion="4.2.0.0" compiler="3.5.18.40" lmm="3.5.18.40" profile="CODESYS V3.5 SP18 Patch 4+" settings="SupportOPCUA, XmlIncludeNodeFlags, LayoutCalculator=CompatibilityClientSideLayoutCalculator" />
+    <SymbolConfigObject version="4.2.0.0" runtimeid="3.5.18.40" libversion="4.2.0.0" compiler="3.5.18.40" lmm="3.5.18.40" profile="CODESYS V3.5 SP18 Patch 4+" settings="SupportOPCUA, XmlIncludeNodeFlags, LayoutCalculator=CompatibilityClientSideLayoutCalculator" />
     <ProjectInfo name="PFC200_SMS_Alarm" devicename="PFC200_2ETH_RS_3G" appname="Application" />
   </Header>
   <TypeList />
