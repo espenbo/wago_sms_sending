@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 # Wago SMS sending. Codesys 3.5
 
 ## Description
